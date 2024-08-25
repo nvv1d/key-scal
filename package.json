@@ -4,7 +4,7 @@
   "description": "Promo code generator for Hamster Kombat Playground Games",
   "main": "hamster-kombat-playground-games-promo-keys-generator.js",
   "scripts": {
-    "start": "node hamster-kombat-playground-games-promo-keys-generator.js"
+    "start": "node hamster-kombat-playground-games-promo-keys-generator.js --device=ios --keys=8"
   },
   "dependencies": {
     "node-fetch": "^3.3.0"
