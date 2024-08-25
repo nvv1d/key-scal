@@ -1,0 +1,1 @@
+web: node hamster-kombat-playground-games-promo-keys-generator.js

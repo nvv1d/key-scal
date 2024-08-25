@@ -1,0 +1,16 @@
+{
+  "name": "hamster-kombat-promo-generator",
+  "version": "1.2.0",
+  "description": "Promo code generator for Hamster Kombat Playground Games",
+  "main": "hamster-kombat-playground-games-promo-keys-generator.js",
+  "scripts": {
+    "start": "node hamster-kombat-playground-games-promo-keys-generator.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "type": "module"
+}
